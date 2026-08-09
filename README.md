@@ -1,5 +1,7 @@
 # Use Case: Enterprise Custom Policies
 
+**YouTube walkthrough:** [Enterprise Custom Policies — System Design #Shorts](https://youtu.be/IfrBf6zkksE)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -48,6 +50,9 @@ Reuse layered enforcement from **06**; add a **policy pack compiler**.
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Enterprise Custom Policies — System Design #Shorts](https://youtu.be/IfrBf6zkksE)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
