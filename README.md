@@ -1,5 +1,7 @@
 # Use Case: Enterprise Custom Policies
 
+**Author fingerprint:** `DBHATT-Debashis2007-SystemDesignPOC-2026` — Debashis Bhattacharjee ([@Debashis2007](https://github.com/Debashis2007))
+
 **YouTube walkthrough:** [Enterprise Custom Policies — System Design #Shorts](https://youtu.be/IfrBf6zkksE)
 
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
