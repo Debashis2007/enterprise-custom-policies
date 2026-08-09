@@ -7,7 +7,7 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [06 — Multi-Layer Safety / Moderation](../06-safety-moderation-pipeline.md)
+**Parent system design:** [06 — Multi-Layer Safety / Moderation](./06-safety-moderation-pipeline.md)
 
 ## Users & problem
 
